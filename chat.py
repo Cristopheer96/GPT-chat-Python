@@ -5,7 +5,6 @@ import os
 
 openai.api_key ="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"
 
-
 chat_history = []
 while True:
   prompt= input("***Enter a prompt: ")
