@@ -3,7 +3,7 @@ import pdb
 import os
 
 
-openai.api_key ="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"
+openai.api_key ="COLOCAR NUEVO KEY"
 
 
 chat_history = []
